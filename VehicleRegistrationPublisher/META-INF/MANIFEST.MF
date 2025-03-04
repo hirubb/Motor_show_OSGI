@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: VehicleRegistrationPublisher
+Bundle-SymbolicName: VehicleRegistrationPublisher
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: vehicleregistrationpublisher.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: VehicleRegistrationPublisher
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
