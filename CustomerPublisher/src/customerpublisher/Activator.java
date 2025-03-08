@@ -10,6 +10,7 @@ public class Activator implements BundleActivator {
 
 	@SuppressWarnings("rawtypes")
 	
+	
 	private ServiceRegistration serviceRegistration;
 
 	public void start(BundleContext bundleContext) throws Exception {

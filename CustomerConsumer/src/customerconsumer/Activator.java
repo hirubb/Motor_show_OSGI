@@ -13,6 +13,7 @@ public class Activator implements BundleActivator {
 
     ServiceReference serviceReference;
     private Scanner scan;
+    
 
     public void start(BundleContext context) throws Exception {
         System.out.println("Customer Consumer Start");

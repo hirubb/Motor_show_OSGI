@@ -6,6 +6,7 @@ public class CustomerModel {
     private String lastName;
     private String email;
     private String contactNumber;
+    
 
     public CustomerModel(String customerID, String firstName, String lastName, String email, String contactNumber) {
         this.customerID = customerID;

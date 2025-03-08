@@ -11,6 +11,7 @@ public class CustomerImpl implements CustomerService {
         scan = new Scanner(System.in);
         RegisteredCustomers = new ArrayList<>();
     }
+    
 
     @Override
     public void AddNewCustomer() {
