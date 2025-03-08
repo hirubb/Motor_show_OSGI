@@ -12,6 +12,8 @@ public class CustomerImpl implements CustomerService {
         RegisteredCustomers = new ArrayList<>();
     }
     
+    
+    
 
     @Override
     public void AddNewCustomer() {

@@ -13,6 +13,7 @@ public class Activator implements BundleActivator {
 	
 	private ServiceRegistration serviceRegistration;
 
+	
 	public void start(BundleContext bundleContext) throws Exception {
 	
 		System.out.println("Start Customer Management Publisher Service");

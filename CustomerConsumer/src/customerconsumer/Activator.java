@@ -37,6 +37,8 @@ public class Activator implements BundleActivator {
             scan.nextLine(); // Consume newline character
           
             
+            
+            
             switch (choice) {
                 case 1:
                     customerService.AddNewCustomer();
